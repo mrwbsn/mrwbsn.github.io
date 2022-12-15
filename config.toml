@@ -1,4 +1,4 @@
-base_url = "https://example.com"
+base_url = "https://mrwbsn.github.io/boring-mario/"
 compile_sass = true
 build_search_index = true
 theme = "emily_zola_theme"
