@@ -1,0 +1,19 @@
+base_url = "https://example.com"
+compile_sass = true
+build_search_index = true
+theme = "emily_zola_theme"
+taxonomies = [
+    {name = "categories", rss = false},
+    {name = "tags", rss = false},
+]
+
+[markdown]
+highlight_code = true
+
+[extra]
+emily_author = "MRWBSN"
+emily_icon = "/images/logo.png"
+emily_favicon = "/images/favicon.png"
+emily_iconsize = 70
+emily_indexposts = 5
+emily_dark_mode = false
